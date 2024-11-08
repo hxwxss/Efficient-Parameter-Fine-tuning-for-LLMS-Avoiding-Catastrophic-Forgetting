@@ -1,6 +1,6 @@
 # Efficient-Parameter-Fine-tuning-for-LLM/MLLM:Avoiding-Catastrophic-Forgetting
 
 
-**sparsity**
+# sparsity
 
-**optimizer**
+# optimizer
