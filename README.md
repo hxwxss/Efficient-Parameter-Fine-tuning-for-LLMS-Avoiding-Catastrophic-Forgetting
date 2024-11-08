@@ -1,1 +1,1 @@
-# Efficient-Parameter-Fine-tuning-for-LLMS-Avoiding-Catastrophic-Forgetting
+# Efficient-Parameter-Fine-tuning-for-LLM/MLLM-Avoiding-Catastrophic-Forgetting
