@@ -17,6 +17,7 @@ Summary: Selecting a subset of neurons to update is a sparsity method.
 Summary: A modified optimizer, which only updates the momentum Top k (hyperparameter) weights, also seems to be a sparsity approach.
 
 #Averging the weights
+
 **Mitigating the Alignment Tax of RLHF**
 
 [link](https://arxiv.org/pdf/2309.06256)
